@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://www.udbvirtual.edu.sv/lib/img/nuestra_institucion/1.jpg)
+![Isidro Marroquin- UDB ](https://www.udbvirtual.edu.sv/lib/img/nuestra_institucion/1.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Isidro Marroquin</h2>
 
